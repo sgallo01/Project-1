@@ -1,0 +1,2 @@
+La cartella 'TEAM24_data' non contiene il file "GlobalLandTemperaturesByCity.csv", la cui dimensione originale è superiore a 520 MB, perciò non è stato possibile comprimere adeguatamente il file. Il file è reperibile al seguente link: https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCity.csv 
+Il file TEAM24_workflow contiene tre nodi CSV reader, con relative path to current mountpoint.
